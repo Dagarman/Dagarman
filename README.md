@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Dagarman
 - 👀 I’m interested in learning to program in C++
-- 🌱 I’m currently learning how to write an emulator
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Dagarman/Dagarman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
