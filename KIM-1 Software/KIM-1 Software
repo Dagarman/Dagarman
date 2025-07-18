@@ -1,1 +1,10 @@
+~:\MAME>romcmp -h rom.zip
 
+"baseball.wav" size="26518684" crc="01e1f702" sha1="7ed49cc17781ca2abfb6496071a88fb8c1f17137"
+"focal.wav" size="16230584" crc="e8eb2679" sha1="7ef83fa37077987551e4e48f16ba1494b5d827e7"
+"hexpawn.wav" size="2361357" crc="2a0810be" sha1="c0656f9e99b071396263d98bbc87d2de9cd68e72"
+"kim basic 6.wav" size="21267405" crc="0ba87eaa" sha1="46f2f23a9a41a9fe95080c87acd7bc8929161717"
+"kim basic 911.wav" size="23219181" crc="72470b66" sha1="0d4c00bde405ea491f27b1fffee7f07d45ee09a0"
+"kim basic 912.wav" size="22755213" crc="e5bc3d61" sha1="87fdecdd43b8a9b26c4d280ff50eaf8833564a4e"
+"kimath.wav" size="(5632461" crc="4ec5f13a" sha1="2042f73e45e25328da3c56f8e510b187ebcadfc5"
+"microade.wav" size="10984941" crc="defbe148" sha1="40ce84727d65f195aa1ef451714781c78b1d2785"
