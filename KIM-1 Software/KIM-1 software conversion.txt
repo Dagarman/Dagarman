@@ -1,0 +1,3 @@
+MAME uses .wav files for cassette tapes
+
+1. Convert a .bin to .wav with KIMTAPE (http://dxforth.mirrors.minimaltype.com/#kimtape) for smaller file sizes (8-bit mono at 22050 Hz)
