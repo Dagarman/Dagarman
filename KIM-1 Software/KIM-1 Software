@@ -37,7 +37,7 @@ terminal, ID 12, GO 3FB1
 "kimath.wav" size="(5632461" crc="4ec5f13a" sha1="2042f73e45e25328da3c56f8e510b187ebcadfc5"
 KIMath Subroutines, 1977, MOS Technology
 http://retro.hansotten.nl/6502-sbc/kim-1-manuals-and-software/kim-system-products/#kimath
-Doesn't load properly (expanded memory issue?), so don't softlist. This was also available as a ROM
+Doesn't load properly (expanded memory issue?), so don't softlist. This was supposed to be a ROM but wasn't released. It was sold on cassette (6502 User Notes #13 p 9)
 ID 01, see manual for how to use subroutines
 
 "microade.wav" size="10984941" crc="defbe148" sha1="40ce84727d65f195aa1ef451714781c78b1d2785"
