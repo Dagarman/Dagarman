@@ -1,0 +1,1 @@
+microvsn.zip modified from https://www.mameworld.info/ubbthreads/showflat.php?Number=397900 to fix deprecated bezel elements
