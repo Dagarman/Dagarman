@@ -1,3 +1,3 @@
-- File created or modified for MAME
+- Files created or modified for MAME
 
 
