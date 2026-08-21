@@ -1,1 +1,86 @@
+Checksum information
 
+	<software name="bagels">
+		<description>BAGELS</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 3, March-April 1978, page 6 -->
+		<info name="programmer" value="Jim Butterfield" />
+		<info name="usage" value="ROMS 1.0, 4K, BAGELS" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="2560164">
+				<rom name="bagels (1978)(jim butterfield).wav" size="2560164" crc="3760c509" sha1="139a33a3b7dd44ee696a7d23fef9a0c4410be4bd"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="deflectn">
+		<description>DEFLECTION</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 3, March-April 1978, page 11 -->
+		<info name="programmer" value="Fred Dunlap" />
+		<info name="usage" value="ROMS 1.0, 4K, DEFLECTION" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="4799962">
+				<rom name="deflection (1978)(fred dunlap).wav" size="4799962" crc="fe167555" sha1="fe8418c4554ef94c5dec15d7b38d967685df21ca"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="life">
+		<description>LIFE 40*25</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 4, May-June 1978, page 5 -->
+		<info name="programmer" value="Frank Covitz" />
+		<info name="usage" value="ROMS 1.0, 8K, LIFE 40*25" />
+		<!-- CLR, cursor to center of display, SHIFT+Q, SYS6400 -->
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="1979882">
+				<rom name="life 40-25 (1978)(frank covitz).wav" size="1979882" crc="3eef9887" sha1="edbeccf985551c4f5b93213fbdc5968206d83560"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="nim">
+		<description>NIM</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 4, May-June 1978, page 1 -->
+		<info name="programmer" value="Jim Butterfield" />
+		<info name="usage" value="ROMS 1.0, 4K, NIM" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="3148232">
+				<rom name="nim (1978)(jim butterfield).wav" size="3148232" crc="da65d370" sha1="07b9d44b32416ddfdb5ea90bf0983a65c2edb804"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="racetrac">
+		<description>RACE TRACK</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 3, March-April 1978, page 12 -->
+		<info name="programmer" value="Roger E. Moore" />
+		<info name="usage" value="ROMS 1.0, 4K, RACE TRACK" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="5145014">
+				<rom name="race track (1978)(roger e. moore).wav" size="5145014" crc="ce77e603" sha1="02df1b891d9e284670050c3204e45e266af41005"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="swat">
+		<description>SWAT</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 3, March-April 1978, page 1 -->
+		<info name="programmer" value="Frank J. Campbell" />
+		<info name="usage" value="ROMS 1.0, 4K, SWAT" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="4833948">
+				<rom name="swat (1978)(fj campbell).wav" size="4833948" crc="6fd95075" sha1="2e6d3a9f946872c48a5aa9ac7674d121541f7268"/>
+			</dataarea>
+		</part>
+	</software>
