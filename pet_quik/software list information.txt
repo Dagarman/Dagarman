@@ -1,0 +1,16 @@
+Software List Checksums
+These files are based on type-in programs. MAME provides a method to input type-in programs with [SHIFT+Scroll Lock] but some PETSCII keystrokes don't convert.
+
+	<software name="quest">
+		<description>Quest</description>
+		<year>1978</year>
+		<publisher>Byte Magazine</publisher>
+		<!-- Volume 4 Issue 7, July 1979, page 176 -->
+		<info name="programmer" value="Roger Chaffee" />
+		<info name="usage" value="ROMS 2.0, 16K, QUEST" />
+		<part name="quik" interface="cbm_quik">
+			<dataarea name="quik" size="8340">
+				<rom name="quest.prg" size="8340" crc="30894327" sha1="36967a85ae9754470c22dbc4308c6b1732fed09e"/>
+			</dataarea>
+		</part>
+	</software>
