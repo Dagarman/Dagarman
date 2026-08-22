@@ -2,12 +2,12 @@ Checksum information
 
 	<software name="acquire">
 		<description>ACQUIRE</description>
-		<year>1980</year>
+		<year>1982</year>
 		<publisher>Microcomputer Games</publisher>
 		<info name="usage" value="ROMS 2,4, 16K, ACQUIRE" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="24368704">
-				<rom name="acquire (1980)(avalon hill).wav" size="24368704" crc="65ceaa57" sha1="e8b1d072356526c31a509a267507e9aaa74f17fa"/>
+				<rom name="acquire (1982)(avalon hill).wav" size="24368704" crc="65ceaa57" sha1="e8b1d072356526c31a509a267507e9aaa74f17fa"/>
 			</dataarea>
 		</part>
 	</software>
