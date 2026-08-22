@@ -1,5 +1,40 @@
 Checksum information
 
+	<software name="allenani">
+		<description>Allen Animation 1</description>
+		<year>1980</year>
+		<publisher>Allen Computer Products</publisher>
+		<info name="programmer" value="Robert H. Rogez, Douglas A. Rogez" />
+		<info name="usage" value="ROMS 1,2,4, 8K, cb2snd, MAESTRO / CAN-CAN" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="21129492">
+				<rom name="maestro, can-can (1980)(allen computer products).wav" size="21129492" crc="252c9afe" sha1="c31a9dd903e6db4d921b9c0e55555faa1ff16cf9"/>
+			</dataarea>
+		</part>
+
+		<info name="programmer" value="Robert H. Rogez, Douglas A. Rogez" />
+		<info name="usage" value="ROMS 1,2,4, 8K, cb2snd, VIRTUOSO / BUMBLE-BEE" />
+		<part name="cass2" interface="cbm_cass">
+			<dataarea name="cass" size="21129168">
+				<rom name="virtuoso, bumble-bee (1980)(allen computer products).wav" size="21129168" crc="82dc366c" sha1="374a9c9743f126fad7521f9ddd8bd8ab117c9e91"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="bagels">
+		<description>BAGELS</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 3, March-April 1978, page 6 -->
+		<info name="programmer" value="Jim Butterfield" />
+		<info name="usage" value="ROMS 1.0, 4K, BAGELS" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="2560164">
+				<rom name="bagels (1978)(jim butterfield).wav" size="2560164" crc="3760c509" sha1="139a33a3b7dd44ee696a7d23fef9a0c4410be4bd"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="bagels">
 		<description>BAGELS</description>
 		<year>1978</year>
