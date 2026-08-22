@@ -21,6 +21,20 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="arrow">
+		<description>ARROW</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 7, November-December 1978, page 24 -->
+		<info name="programmer" value="Jim Butterfield" />
+		<info name="usage" value="ROMS 1.0, 4K, cb2snd, ARROW" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="4169254">
+				<rom name="arrow (1978)(jim butterfield).wav" size="4169254" crc="91d8eb79" sha1="8c3fe1ccbebfbb1fab77564add7d366a665c6dbf"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="bagels">
 		<description>BAGELS</description>
 		<year>1978</year>
