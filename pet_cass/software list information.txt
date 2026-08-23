@@ -23,7 +23,6 @@ Checksum information
 				<rom name="maestro, can-can (1980)(allen computer products).wav" size="21129492" crc="252c9afe" sha1="c31a9dd903e6db4d921b9c0e55555faa1ff16cf9"/>
 			</dataarea>
 		</part>
-
 		<info name="programmer" value="Robert H. Rogez, Douglas A. Rogez" />
 		<info name="usage" value="ROMS 1,2,4, 8K, cb2snd, VIRTUOSO / BUMBLE-BEE" />
 		<part name="cass2" interface="cbm_cass">
@@ -41,6 +40,25 @@ Checksum information
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="22685838">
 				<rom name="andromeda conquest (1982)(avalon hill).wav" size="22685838" crc="8716b6d9" sha1="7d21e69fe5c1831b3f3244d1236b7e7ed57a2fb4"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="advlnpir">
+		<description>ADVENTURELAND / PIRATE ADVENTURE</description>
+		<year>1979</year>
+		<publisher>Creative Computing</publisher>
+		<info name="usage" value="ROMS 2,4, 24K, ADVENTURE" />
+		<info name="programmer" value="Scott Adams, Jeff Jessee" />
+		<part name="cass1" interface="cbm_cass">
+			<dataarea name="cass" size="29649932">
+				<rom name="adventureland (1978)(creative computing).wav" size="29649932" crc="450825b3" sha1="d2a0e10bcc6ecd6459f46984c8b57190a7a2b72b"/>
+			</dataarea>
+		</part>
+		<info name="usage" value="ROMS 2,4, 16K, PIRATE ADVENTURE" />
+		<part name="cass2" interface="cbm_cass">
+			<dataarea name="cass" size="28420560">
+				<rom name="pirate adventure (1979)(creative computing).wav" size="28420560" crc="0932df6d" sha1="458b23965f24688fb9088eaa5a82914f8181a264"/>
 			</dataarea>
 		</part>
 	</software>
