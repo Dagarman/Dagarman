@@ -144,6 +144,23 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="roadbowl">
+		<description>Arcade Pak #4 ROAD RACE / BOWLING</description>
+		<year>1982</year>
+		<publisher>Microcomputer Games</publisher>
+		<info name="usage" value="ROMS 2,4, 16K, ROADRACER / BOWLER" />
+		<part name="cass1" interface="cbm_cass">
+			<dataarea name="cass" size="9717834">
+				<rom name="roadracer (1982)(avalon hill).wav" size="9717834" crc="e64ff18e" sha1="1fd733c95d27693b3a8496f46844b90a6eb1ff0d"/>
+			</dataarea>
+		</part>
+		<part name="cass2" interface="cbm_cass">
+			<dataarea name="cass" size="7137906">
+				<rom name="bowler (1982)(avalon hill).wav" size="7137906" crc="9eb77351" sha1="8d291142cbb6dfe2b49e7a4bad94135a04729035"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="swat">
 		<description>SWAT</description>
 		<year>1978</year>
