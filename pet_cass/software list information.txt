@@ -179,6 +179,24 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="spacewar">
+		<description>SPACEWAR</description>
+		<year>1978</year>
+		<publisher>Creative Computing</publisher>
+		<info name="usage" value="ROM 1, 8K, SPACEWAR INS" />
+		<part name="cass1" interface="cbm_cass">
+			<dataarea name="cass" size="9757186">
+				<rom name="spacewar 1 (1978)(creative computing).wav" size="9757186" crc="3de07110" sha1="60f9df10a47216402034de04002601e8c34c4cbb"/>
+			</dataarea>
+		</part>
+		<info name="usage" value="ROM 1, 8K, SPACEWAR GAME" />
+		<part name="cass2" interface="cbm_cass">
+			<dataarea name="cass" size="11848686">
+				<rom name="spacewar 2 (1978)(creative computing).wav" size="11848686" crc="a89dffa0" sha1="867760f0b9f0233e1031d9e1ce516ce7b12739ec"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="stygian">
 		<description>STYGIAN TOMBS</description>
 		<year>1979</year>
