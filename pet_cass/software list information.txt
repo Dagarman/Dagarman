@@ -77,6 +77,20 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="autodood">
+		<description>AUTO DOODLE</description>
+		<year>1978</year>
+		<publisher>PET User Notes</publisher>
+		<!-- Volume 1 Issue 6, September-October 1978, page 6 -->
+		<info name="programmer" value="Frank Levinson" />
+		<info name="usage" value="ROM 1, 4K, AUTO DOODLE" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="3442552">
+				<rom name="auto doodle (1978)(frank levinson).wav" size="3442552" crc="58843eba" sha1="192cac6caefc1b547a25d5ea4ad3e691b27b5dcb"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="bagels">
 		<description>BAGELS</description>
 		<year>1978</year>
