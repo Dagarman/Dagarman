@@ -146,6 +146,26 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="dietbio">
+		<description>DIET PLANNER / BIORHYTHM</description>
+		<year>1978</year>
+		<publisher>Commodore Business Machines, Inc.</publisher>
+		<info name="serial" value="321002" />
+		<info name="programmer" value="Les Palenik" />
+		<info name="usage" value="ROM 1,2,4 4K, DIET PLANNER" />
+		<part name="cass1" interface="cbm_cass">
+			<dataarea name="cass" size="11589684">
+				<rom name="diet planner (1978)(commodore business machines).wav" size="11589684" crc="37facd35" sha1="cfdda2c522b8cf3afb01470ec803b0f8b5add852"/>
+			</dataarea>
+		</part>
+		<info name="usage" value="ROM 1,2,4 4K, BIORHYTHM" />
+		<part name="cass2" interface="cbm_cass">
+			<dataarea name="cass" size="9128384">
+				<rom name="biorhythm (1978)(commodore business machines).wav" size="9128384" crc="e28833e8" sha1="a4378329c2ed9fa5983ac5f280b44a41f46ab33c"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="jotto">
 		<description>JOTTO</description>
 		<year>1978</year>
