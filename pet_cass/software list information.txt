@@ -4,7 +4,7 @@ Checksum information
 		<description>ACQUIRE</description>
 		<year>1980</year>
 		<publisher>Microcomputer Games</publisher>
-		<info name="usage" value="ROMS 2,4, 16K, ACQUIRE" />
+		<info name="usage" value="ROM 2,4, 16K, ACQUIRE" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="24368704">
 				<rom name="acquire (1980)(avalon hill).wav" size="24368704" crc="65ceaa57" sha1="e8b1d072356526c31a509a267507e9aaa74f17fa"/>
@@ -17,14 +17,14 @@ Checksum information
 		<year>1980</year>
 		<publisher>Allen Computer Products</publisher>
 		<info name="programmer" value="Robert H. Rogez, Douglas A. Rogez" />
-		<info name="usage" value="ROMS 1,2,4, 8K, cb2snd, MAESTRO / CAN-CAN" />
+		<info name="usage" value="ROM 1,2,4, 8K, cb2snd, MAESTRO / CAN-CAN" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="21129492">
 				<rom name="maestro, can-can (1980)(allen computer products).wav" size="21129492" crc="252c9afe" sha1="c31a9dd903e6db4d921b9c0e55555faa1ff16cf9"/>
 			</dataarea>
 		</part>
 		<info name="programmer" value="Robert H. Rogez, Douglas A. Rogez" />
-		<info name="usage" value="ROMS 1,2,4, 8K, cb2snd, VIRTUOSO / BUMBLE-BEE" />
+		<info name="usage" value="ROM 1,2,4, 8K, cb2snd, VIRTUOSO / BUMBLE-BEE" />
 		<part name="cass2" interface="cbm_cass">
 			<dataarea name="cass" size="21129168">
 				<rom name="virtuoso, bumble-bee (1980)(allen computer products).wav" size="21129168" crc="82dc366c" sha1="374a9c9743f126fad7521f9ddd8bd8ab117c9e91"/>
@@ -36,7 +36,7 @@ Checksum information
 		<description>ANDROMEDA CONQUEST</description>
 		<year>1982</year>
 		<publisher>Microcomputer Games</publisher>
-		<info name="usage" value="ROMS 2,4, 16K, ANDROMEDA CONQUEST" />
+		<info name="usage" value="ROM 2,4, 16K, ANDROMEDA CONQUEST" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="22685838">
 				<rom name="andromeda conquest (1982)(avalon hill).wav" size="22685838" crc="8716b6d9" sha1="7d21e69fe5c1831b3f3244d1236b7e7ed57a2fb4"/>
@@ -48,14 +48,14 @@ Checksum information
 		<description>ADVENTURELAND / PIRATE ADVENTURE</description>
 		<year>1979</year>
 		<publisher>Creative Computing</publisher>
-		<info name="usage" value="ROMS 2,4, 24K, ADVENTURE" />
+		<info name="usage" value="ROM 2,4, 24K, ADVENTURE" />
 		<info name="programmer" value="Scott Adams, Jeff Jessee" />
 		<part name="cass1" interface="cbm_cass">
 			<dataarea name="cass" size="29649932">
 				<rom name="adventureland (1978)(creative computing).wav" size="29649932" crc="450825b3" sha1="d2a0e10bcc6ecd6459f46984c8b57190a7a2b72b"/>
 			</dataarea>
 		</part>
-		<info name="usage" value="ROMS 2,4, 16K, PIRATE ADVENTURE" />
+		<info name="usage" value="ROM 2,4, 16K, PIRATE ADVENTURE" />
 		<part name="cass2" interface="cbm_cass">
 			<dataarea name="cass" size="28420560">
 				<rom name="pirate adventure (1979)(creative computing).wav" size="28420560" crc="0932df6d" sha1="458b23965f24688fb9088eaa5a82914f8181a264"/>
@@ -69,7 +69,7 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 7, November-December 1978, page 24 -->
 		<info name="programmer" value="Jim Butterfield" />
-		<info name="usage" value="ROMS 1.0, 4K, cb2snd, ARROW" />
+		<info name="usage" value="ROM 1, 4K, cb2snd, ARROW" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="4169254">
 				<rom name="arrow (1978)(jim butterfield).wav" size="4169254" crc="91d8eb79" sha1="8c3fe1ccbebfbb1fab77564add7d366a665c6dbf"/>
@@ -97,7 +97,7 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 3, March-April 1978, page 6 -->
 		<info name="programmer" value="Jim Butterfield" />
-		<info name="usage" value="ROMS 1.0, 4K, BAGELS" />
+		<info name="usage" value="ROM 1, 4K, BAGELS" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="2560164">
 				<rom name="bagels (1978)(jim butterfield).wav" size="2560164" crc="3760c509" sha1="139a33a3b7dd44ee696a7d23fef9a0c4410be4bd"/>
@@ -111,10 +111,23 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 3, March-April 1978, page 6 -->
 		<info name="programmer" value="Jim Butterfield" />
-		<info name="usage" value="ROMS 1.0, 4K, BAGELS" />
+		<info name="usage" value="ROM 1.0, 4K, BAGELS" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="2560164">
 				<rom name="bagels (1978)(jim butterfield).wav" size="2560164" crc="3760c509" sha1="139a33a3b7dd44ee696a7d23fef9a0c4410be4bd"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="brainstr">
+		<description>BRAIN STRAIN</description>
+		<year>1978</year>
+		<publisher>TPUG</publisher>
+		<info name="programmer" value="Ed Herstein" />
+		<info name="usage" value="ROM 1, 4K, BRAIN STRAIN" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="3267028">
+				<rom name="brain strain (1978)(ed herstein).wav" size="3267028" crc="f17350c5" sha1="0bdb6e7b6c0959cc33d2d1437a3494108cce04dc"/>
 			</dataarea>
 		</part>
 	</software>
@@ -125,7 +138,7 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 3, March-April 1978, page 11 -->
 		<info name="programmer" value="Fred Dunlap" />
-		<info name="usage" value="ROMS 1.0, 4K, DEFLECTION" />
+		<info name="usage" value="ROM 1, 4K, DEFLECTION" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="4799962">
 				<rom name="deflection (1978)(fred dunlap).wav" size="4799962" crc="fe167555" sha1="fe8418c4554ef94c5dec15d7b38d967685df21ca"/>
@@ -139,7 +152,7 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 4, May-June 1978, page 5 -->
 		<info name="programmer" value="Frank Covitz" />
-		<info name="usage" value="ROMS 1.0, 8K, LIFE 40*25" />
+		<info name="usage" value="ROM 1, 8K, LIFE 40*25" />
 		<!-- CLR, cursor to center of display, SHIFT+Q, SYS6400 -->
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="1979882">
@@ -154,7 +167,7 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 4, May-June 1978, page 1 -->
 		<info name="programmer" value="Jim Butterfield" />
-		<info name="usage" value="ROMS 1.0, 4K, NIM" />
+		<info name="usage" value="ROM 1, 4K, NIM" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="3148232">
 				<rom name="nim (1978)(jim butterfield).wav" size="3148232" crc="da65d370" sha1="07b9d44b32416ddfdb5ea90bf0983a65c2edb804"/>
@@ -168,7 +181,7 @@ Checksum information
 		<publisher>PET User Notes</publisher>
 		<!-- Volume 1 Issue 3, March-April 1978, page 12 -->
 		<info name="programmer" value="Roger E. Moore" />
-		<info name="usage" value="ROMS 1.0, 4K, RACE TRACK" />
+		<info name="usage" value="ROM 1, 4K, RACE TRACK" />
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="5145014">
 				<rom name="race track (1978)(roger e. moore).wav" size="5145014" crc="ce77e603" sha1="02df1b891d9e284670050c3204e45e266af41005"/>
