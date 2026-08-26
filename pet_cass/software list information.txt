@@ -146,6 +146,19 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="jotto">
+		<description>JOTTO</description>
+		<year>1978</year>
+		<publisher>TPUG</publisher>
+		<info name="programmer" value="Jim Butterfield" />
+		<info name="usage" value="ROM 1, 4K, JOTTO" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="4161124">
+				<rom name="jotto (1978)(jim butterfield).wav" size="4161124" crc="3e26024f" sha1="31dc1c5e2a08850ef76c91d20065154fa29a109b"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="life">
 		<description>LIFE 40*25</description>
 		<year>1978</year>
