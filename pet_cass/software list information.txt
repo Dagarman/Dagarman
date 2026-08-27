@@ -137,11 +137,12 @@ Checksum information
 		<description>BRAIN STRAIN</description>
 		<year>1978</year>
 		<publisher>TPUG</publisher>
+		<!-- Volume TPUG PET/O-Old PET 1979/(o)g3.d64 "MAGIC.SQUARE" -->
 		<info name="programmer" value="Ed Herstein" />
-		<info name="usage" value="ROM 1, 4K, BRAIN STRAIN" />
+		<info name="usage" value="ROM 1,2,4 4K, BRAIN STRAIN" />
 		<part name="cass" interface="cbm_cass">
-			<dataarea name="cass" size="3267028">
-				<rom name="brain strain (1978)(ed herstein).wav" size="3267028" crc="f17350c5" sha1="0bdb6e7b6c0959cc33d2d1437a3494108cce04dc"/>
+			<dataarea name="cass" size="4634072">
+				<rom name="brain strain (1978)(ed herstein).wav" size="4634072" crc="dc873462" sha1="c5c5b0f9b87f9c2971504b34f6a46d874d6172a1"/>
 			</dataarea>
 		</part>
 	</software>
