@@ -239,6 +239,20 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="roulette">
+		<description>ROULETTE</description>
+		<year>1978</year>
+		<publisher>Personal Computing</publisher>
+		<!-- July 1978, page 22 -->
+		<info name="programmer" value="David M. Conley" />
+		<info name="usage" value="ROM 1, 4K, ROULETTE" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="2981552">
+				<rom name="roulette (1978)(david m. conley).wav" size="2981552" crc="7efb5f0c" sha1="afc8f2828412c14bf13262841d2e80d5c483dc04"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="spacewar">
 		<description>SPACEWAR</description>
 		<year>1978</year>
