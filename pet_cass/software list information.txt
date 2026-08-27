@@ -77,6 +77,20 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="artauct">
+		<description>ART AUCTION</description>
+		<year>1978</year>
+		<publisher>Creative Computing</publisher>
+		<!-- May-Jun 1978, vol 4, no 3, page 132 -->
+		<info name="programmer" value="Charles William Engel" />
+		<info name="usage" value="ROM 1, 4K, ART AUCTION" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="2976832">
+				<rom name="art auction (1978)(c. william engel).wav" size="2976832" crc="3be086aa" sha1="2e31b2ddf8240093ebe2d6072abac9e9752774bf"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="autodood">
 		<description>AUTO DOODLE</description>
 		<year>1978</year>
