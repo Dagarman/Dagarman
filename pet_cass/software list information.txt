@@ -180,6 +180,20 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="hangmath">
+		<description>HANGMATH</description>
+		<year>1978</year>
+		<publisher>Kilobaud</publisher>
+		<!-- Issue 4, April 1977, page 112 -->
+		<info name="programmer" value="Phil Feldma and Tom Rugg, modified by Gregory Yob and Paul Agosta" />
+		<info name="usage" value="ROM 2,4, 8K, HANGMATH" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="9378362">
+				<rom name="hangmath (1978)(feldma, rugg, yob, agosta).wav" size="9378362" crc="92902dc2" sha1="9af16049cad66b80a4fb3384934aa07cb7601d89"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="jotto">
 		<description>JOTTO</description>
 		<year>1978</year>
