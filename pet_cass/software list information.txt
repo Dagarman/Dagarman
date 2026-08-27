@@ -181,6 +181,19 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="dnieper">
+		<description>DNIEPER RIVER LINE</description>
+		<year>1982</year>
+		<publisher>Microcomputer Games</publisher>
+		<info name="usage" value="ROM 2,4 32K, DNIEPER" />
+		<info name="serial" value="41701" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="31131508">
+				<rom name="dnieper river line (1982)(avalon hill).wav" size="31131508" crc="7223ffdc" sha1="f1fb6a5dc097b03545ee048d349b48220ca994a0"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="hangmath">
 		<description>HANGMATH</description>
 		<year>1978</year>
