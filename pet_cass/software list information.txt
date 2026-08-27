@@ -236,6 +236,19 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="karma">
+		<description>LORDS OF KARMA</description>
+		<year>1980</year>
+		<publisher>Microcomputer Games</publisher>
+		<info name="usage" value="ROM 2,4 32K, mount tape, SYS 64785, .L  RETURN, play tape, .G 0400 RETURN" />
+		<info name="serial" value="40501" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="50843490">
+				<rom name="lords of karma (1980)(avalon hill).wav" size="50843490" crc="76640c6c" sha1="e91e72a75004735ee2dd75fa808b897b515e2127"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="nim">
 		<description>NIM</description>
 		<year>1978</year>
