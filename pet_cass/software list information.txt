@@ -206,6 +206,31 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="driveace">
+		<description>DRIVING ACE</description>
+		<year>1979</year>
+		<publisher>Hanimex Pty., Ltd.</publisher>
+		<info name="usage" value="ROM 1, 16K, DRIVING ACE" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="9804660">
+				<rom name="driving ace (1979)(softside software).wav" size="9804660" crc="ca5dec8a" sha1="c791741f94def522d8af0054448e13d9ddf1625b"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="dundeath">
+		<description>DUNGEON OF DEATH</description>
+		<year>1978</year>
+		<publisher>Instant Software, Inc.</publisher>
+		<info name="usage" value="ROM 1, 16K, DUNGEON OF DEATH" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="11618264">
+				<rom name="driving ace (1979)(softside software).wav" size="11618264" crc="02094b37" sha1="3ebfa5060d1165363f29856183a9fefe6661ccfe"/>
+			</dataarea>
+		</part>
+	</software>
+
+
 	<software name="hangmath">
 		<description>HANGMATH</description>
 		<year>1978</year>
