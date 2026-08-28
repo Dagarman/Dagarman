@@ -263,6 +263,18 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="nukewar">
+		<description>NUKEWAR</description>
+		<year>1980</year>
+		<publisher>Microcomputer Games</publisher>
+		<info name="usage" value="ROMS 2,4, 16K, NUKEWAR" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="13147702">
+				<rom name="nukewar (1980)(avalon hill).wav" size="13147702" crc="f53063bb" sha1="c0e6c6a90323694334b33f51f8687f499e77206f"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="racetrac">
 		<description>RACE TRACK</description>
 		<year>1978</year>
