@@ -364,3 +364,16 @@ Checksum information
 			</dataarea>
 		</part>
 	</software>
+
+	<software name="voyager">
+		<description>VOYAGER</description>
+		<year>1982</year>
+		<publisher>Microcomputer Games</publisher>
+		<info name="serial" value="41801" />
+		<info name="usage" value="ROMS 2,/80 32K, VOYAGER" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="23664596">
+				<rom name="Voyager I Sabotage of the Robot Ship (1982)(Avalon Hill).wav" size="23664596" crc="cbc88d77" sha1="2da9e9500791aa5d5aef44d6ad56396c784a3a5e"/>
+			</dataarea>
+		</part>
+	</software>
