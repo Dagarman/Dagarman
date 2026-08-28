@@ -194,6 +194,18 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="dowjones">
+		<description>DOW JONES$</description>
+		<year>1978</year>
+		<publisher>Instand Software, Inc.</publisher>
+		<info name="usage" value="ROM 1, 16K, DOW JONES$" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="10699436">
+				<rom name="dow jones$ (1978)(instant software, inc.).wav" size="10699436" crc="d54d262d" sha1="86300d1d2be3c0788196be98a047c8be4cefe2ea"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="hangmath">
 		<description>HANGMATH</description>
 		<year>1978</year>
