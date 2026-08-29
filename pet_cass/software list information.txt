@@ -323,6 +323,18 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="petarose">
+		<description>PETALS AROUND THE ROSE</description>
+		<year>1978</year>
+		<publisher>William Rothanburg</publisher>
+		<info name="usage" value="ROM 1, 8K, PETALS ARND ROSE" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="8115898">
+				<rom name="petals around the rose (1978)(william rothanburg).wav" size="8115898" crc="61b8b606" sha1="e8b4c545044445b799a32f65af6ce7557c1e70d5"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="racetrac">
 		<description>RACE TRACK</description>
 		<year>1978</year>
@@ -338,7 +350,7 @@ Checksum information
 	</software>
 
 	<software name="roadbowl">
-		<description>Arcade Pak #4 ROAD RACE / BOWLING</description>
+		<description>ROAD RACE / BOWLING</description>
 		<year>1982</year>
 		<publisher>Microcomputer Games</publisher>
 		<info name="usage" value="ROMS 2,4, 16K, ROADRACER / BOWLER" />
