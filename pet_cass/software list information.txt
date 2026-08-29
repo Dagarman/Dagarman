@@ -230,7 +230,6 @@ Checksum information
 		</part>
 	</software>
 
-
 	<software name="hangmath">
 		<description>HANGMATH</description>
 		<year>1978</year>
@@ -254,6 +253,18 @@ Checksum information
 		<part name="cass" interface="cbm_cass">
 			<dataarea name="cass" size="4161124">
 				<rom name="jotto (1978)(jim butterfield).wav" size="4161124" crc="3e26024f" sha1="31dc1c5e2a08850ef76c91d20065154fa29a109b"/>
+			</dataarea>
+		</part>
+	</software>
+
+	<software name="kingdom">
+		<description>KINGDOM</description>
+		<year>1978</year>
+		<publisher>Comodore Business Machines</publisher>
+		<info name="usage" value="ROM 1, 8K, KINGDOM" />
+		<part name="cass" interface="cbm_cass">
+			<dataarea name="cass" size="8413478">
+				<rom name="kingdom (1978)(commodore business machines).wav" size="8413478" crc="ebec9d14" sha1="b7ae72358727bb30458592f8e7d32bc6b0170bd5"/>
 			</dataarea>
 		</part>
 	</software>
