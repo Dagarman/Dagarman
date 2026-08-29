@@ -386,6 +386,24 @@ Checksum information
 		</part>
 	</software>
 
+	<software name="starflto">
+		<description>STARFLEET ORION</description>
+		<year>1978</year>
+		<publisher>Automated Simulations</publisher>
+		<info name="usage" value="ROM 1, 8K, cb2snd, BATTLE, INTRO, BUILDER" />
+		<part name="cass1" interface="cbm_cass">
+			<dataarea name="cass" size="20182692">
+				<rom name="starfleet orion side a (1978)(automated simulations).wav" size="20182692" crc="d2e1dc07" sha1="8ef5836c9fcf0ee8ea9b0c1f7e43b58eea567b7f"/>
+			</dataarea>
+		</part>
+		<info name="usage" value="ROM 1, 8K, BLOCKADE RUNNER, STAR FOX, RELIC, AMBUSH, RED SUN, CONVOY, VIKING, DEATHSONG, SPRING, ENSIGN FLANDRY, ARMAGEDDON" />
+		<part name="cass2" interface="cbm_cass">
+			<dataarea name="cass" size="26976336">
+				<rom name="starfleet orion side b (1978)(automated simulations).wav" size="26976336" crc="cdea8833" sha1="9699edb1c0aab8852cdaf3a40732f50c358578e3"/>
+			</dataarea>
+		</part>
+	</software>
+
 	<software name="stygian">
 		<description>STYGIAN TOMBS</description>
 		<year>1979</year>
